@@ -1,0 +1,13 @@
+Licencja użytkownika
+
+Licencja końcowego użytkownika (EULA)
+
+Korzystając z tego programu, użytkownik zgadza się na poniższe warunki:
+
+1. Program jest dostarczany „tak jak jest” (ang. "as is"), bez jakichkolwiek gwarancji co do jego działania, bezpieczeństwa, stabilności lub przydatności do określonego celu.  
+2. Autor programu nie ponosi żadnej odpowiedzialności za szkody, straty danych, uszkodzenia sprzętu, problemy z oprogramowaniem ani inne skutki wynikające z instalacji, uruchomienia lub używania programu.  
+3. Użytkownik korzysta z programu na własne ryzyko i w pełni akceptuje możliwość wystąpienia wszelkich szkód lub niepożądanych skutków.  
+4. Instalując, uruchamiając lub w inny sposób używając ten program, użytkownik potwierdza, że przeczytał, zrozumiał i akceptuje wszystkie warunki niniejszej licencji.  
+5. Autor programu zastrzega sobie prawo do zmiany treści licencji w dowolnym momencie bez wcześniejszego powiadomienia.
+
+© 2025 [KartoskaVteste]. Wszelkie prawa zastrzeżone.
